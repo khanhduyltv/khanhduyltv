@@ -24,7 +24,7 @@
 
 ```javascript
 const khanhduy = {
-    name: "Lê Trần Văn Khánh Duy",
+    name: "Khánh Duy",
     role: "Full Stack Developer",
     location: "Vietnam 🇻🇳",
     experience: "3+ years in web development",
